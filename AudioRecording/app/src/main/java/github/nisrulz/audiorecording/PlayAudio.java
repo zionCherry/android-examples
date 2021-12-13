@@ -26,6 +26,7 @@ public class PlayAudio {
                 @Override
                 public void onCompletion(MediaPlayer mediaPlayer) {
                     stopPlaying();
+                    //wowser
                     isPlaying = false;
 
                 }
