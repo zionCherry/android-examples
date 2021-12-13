@@ -23,7 +23,7 @@ allprojects {
 }
 
 subprojects {
-    apply from: '../../dependencies.gradle'
+    apply from: '../dependencies.gradle'
 }
 
 task clean(type: Delete) {
