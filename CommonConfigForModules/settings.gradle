@@ -1,4 +1,0 @@
-rootProject.name = 'CommonConfigForModules'
-include ':app'
-include ':androidlib'
-include ':androidlib2'
